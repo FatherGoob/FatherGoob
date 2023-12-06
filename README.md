@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FatherGoob
-- 👀 I’m interested in software development!
-- 🌱 I’m currently following a Full-Stack Developer learning plan on Codecademy!
+- 🌱 I’m currently a Freshman at UCM in Software Engineering!
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
